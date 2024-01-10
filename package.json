@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "chart.js": "^4.4.1",
     "mathjax-full": "^3.2.2",
     "mermaid": "^10.6.1",
     "vuepress": "^2.0.0-rc.0",

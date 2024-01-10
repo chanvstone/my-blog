@@ -24,7 +24,7 @@ export default defineUserConfig({
       },
       {
         text: "车辆工程笔记",
-        link: "/notes"
+        link: "/车辆工程笔记"
       }
     ]
   }),
