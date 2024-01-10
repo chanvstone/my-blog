@@ -1,3 +1,6 @@
-# SiO2 的 BLOG
-
-记录一些我学习的笔记和生活中的灵感
+---
+home: true
+layout: BlogHome
+heroText: 碎语闲言叙人间繁芜
+tagline: -- SiO2
+---
