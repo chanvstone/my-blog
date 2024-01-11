@@ -13,7 +13,7 @@ export default defineUserConfig({
     },
     blog: {
       name: "SiO2",
-      avatar: "../.author/dog.jpg",
+      avatar: "/dog.jpg",
       roundAvatar: true,
       description: "学习真的好累啊！！！",
       medias: {
